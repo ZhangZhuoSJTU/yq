@@ -74,3 +74,9 @@ yq3
 # Golang
 .gomodcache/
 .gocache/
+
+# ProgramBench course-competition artifacts
+executable
+.programbench/venv/
+.programbench/tests/
+.programbench/run/
